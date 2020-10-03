@@ -203,7 +203,7 @@
     left: 0;
     top: 50px;
     width: 100%;
-    padding: 0 20px;
+    padding: 0 21px;
     text-align: center;
     color: #fff;
     -webkit-transition:-webkit-transform 1.2s ease-in-out;
@@ -238,7 +238,7 @@
   
   
   .sign-in{
-    padding-top: 65px;
+    padding-top: 64px;
     -webkit-transition-timing-function:ease-out;
             transition-timing-function:ease-out;
   }
@@ -262,7 +262,7 @@
     background: transparent;
     color: #fff;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
     cursor: pointer;
   }
   
